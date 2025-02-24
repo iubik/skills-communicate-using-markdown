@@ -5,3 +5,6 @@ changed skills-communicate-using-markdown file, adding a heading and description
 ```python
 print("hello world")
 ```
+- [x] docx file contains answers to all the questions in the exercise.
+- [x] .py files contains code that one can run. The code is functional
+- [x] all code is complete and functional. 
